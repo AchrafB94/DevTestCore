@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cqsqfhsVoJ5iYOYv7r8a1IY6xOdJyjcCcN4wU7mCIRiIz0k7xWKeSzlFiq3lkd9WDnnXIVohL+iOUOb564tffQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DEV5\\Desktop\\dev\\DevTestCore\\DevTestCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DEV5\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

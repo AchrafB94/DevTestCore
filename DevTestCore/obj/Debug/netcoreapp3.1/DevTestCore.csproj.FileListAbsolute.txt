@@ -1,0 +1,16 @@
+C:\Users\DEV5\Desktop\DevTestCore\bin\Debug\netcoreapp3.1\DevTestCore.exe
+C:\Users\DEV5\Desktop\DevTestCore\bin\Debug\netcoreapp3.1\DevTestCore.deps.json
+C:\Users\DEV5\Desktop\DevTestCore\bin\Debug\netcoreapp3.1\DevTestCore.runtimeconfig.json
+C:\Users\DEV5\Desktop\DevTestCore\bin\Debug\netcoreapp3.1\DevTestCore.runtimeconfig.dev.json
+C:\Users\DEV5\Desktop\DevTestCore\bin\Debug\netcoreapp3.1\DevTestCore.dll
+C:\Users\DEV5\Desktop\DevTestCore\bin\Debug\netcoreapp3.1\DevTestCore.pdb
+C:\Users\DEV5\Desktop\DevTestCore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\DEV5\Desktop\DevTestCore\obj\Debug\netcoreapp3.1\DevTestCore.csproj.AssemblyReference.cache
+C:\Users\DEV5\Desktop\DevTestCore\obj\Debug\netcoreapp3.1\DevTestCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEV5\Desktop\DevTestCore\obj\Debug\netcoreapp3.1\DevTestCore.AssemblyInfoInputs.cache
+C:\Users\DEV5\Desktop\DevTestCore\obj\Debug\netcoreapp3.1\DevTestCore.AssemblyInfo.cs
+C:\Users\DEV5\Desktop\DevTestCore\obj\Debug\netcoreapp3.1\DevTestCore.csproj.CoreCompileInputs.cache
+C:\Users\DEV5\Desktop\DevTestCore\obj\Debug\netcoreapp3.1\DevTestCore.csproj.CopyComplete
+C:\Users\DEV5\Desktop\DevTestCore\obj\Debug\netcoreapp3.1\DevTestCore.dll
+C:\Users\DEV5\Desktop\DevTestCore\obj\Debug\netcoreapp3.1\DevTestCore.pdb
+C:\Users\DEV5\Desktop\DevTestCore\obj\Debug\netcoreapp3.1\DevTestCore.genruntimeconfig.cache
